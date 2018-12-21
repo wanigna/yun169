@@ -1,7 +1,4 @@
-yici
-<<<<<<< HEAD
+chong tu
 zai linux
 di re ci
-=======
 www
->>>>>>> mastar
