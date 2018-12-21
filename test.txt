@@ -1,3 +1,7 @@
 yici
+<<<<<<< HEAD
 zai linux
 di re ci
+=======
+www
+>>>>>>> mastar
